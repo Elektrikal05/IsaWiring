@@ -1,5 +1,3 @@
-html
-<!DOCTYPE html>
 <html lang="ms" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +10,7 @@ html
             theme: {
                 extend: {
                     colors: {
-                        brand: {
+                        brand: {l
                             50: '#fffbeb',
                             100: '#fef3c7',
                             200: '#fde68a',
@@ -22,7 +20,7 @@ html
                             600: '#d97706',
                             700: '#b45309',
                             800: '#92400e',
-                            900: '#78350f',
+                            900: 'l#78350f',
                         },
                         dark: {
                             50: '#f8fafc',
@@ -62,7 +60,7 @@ html
             <div class="flex items-center gap-4">
                 <span class="flex items-center gap-1">
                     <svg class="w-4 h-4 text-brand-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
-                    Kawasan Perkhidmatan: Selangor, Kuala Lumpur & Negeri Sembilan
+                    Kawasan Perkhidmatan: Tampin, Gemencheh & berdekatan Negeri Sembilan
                 </span>
             </div>
             <div class="flex items-center gap-4">
